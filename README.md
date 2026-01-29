@@ -1,8 +1,13 @@
 # Tarea1
 Mi primer documento Markdown
 
-Empleando las etiquetas del lenguaje **Markdown** escriba un breve resumen sobre Usted con el propósito de presentarse a sus demás compañeros, cree un documento para responder la pregunta "Quién soy yo"; no hay un formato único, puede recibir inspiración revisando por ejemplo un [curriculum](https://www.modelos-de-curriculum.com/curriculum-academico/). 
+# ¿Quién soy yo?
 
-**Por favor no incluya información personal o sensible como números telefónicos, correos electrónicos, ni direcciones personales; recuerde que este es solo un ejercicio académico y el repositorio creado será público, cualquier persona en el mundo podrá ver el documento creado.**
+Soy **Juan Fernando Giraldo Forero**: politólogo, especialista en **Opinión Pública y Marketing Político**, **magíster en Seguridad y Defensa Nacionales** y **candidato a PhD en Neurociencias Cognitivas**. 
 
-Incluya su descripción en el archivo **yo.md** disponible en el repositorio.
+Soy **socio fundador de buho™**, donde trabajo en **analítica de datos** e **investigación de opinión pública, comunicación pública y reputación corporativa**, apoyando a líderes y organizaciones en decisiones estratégicas basadas en evidencia. 
+
+También he sido **profesor** en pregrado y posgrado en temas de **comunicación política, medios y opinión pública**. 
+
+## ¿Qué busco en Computación Estadística?
+Fortalecer mis habilidades en programación y análisis reproducible para **leer, depurar, explorar y visualizar datos** de forma más eficiente, especialmente en contextos aplicados.
